@@ -1,3 +1,9 @@
 nltk
 scikit-learn
 scrapy
+transformers
+datasets
+sentencepiece
+torch
+torchaudio
+torchvido
