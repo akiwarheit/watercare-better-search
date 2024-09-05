@@ -6,5 +6,5 @@ datasets
 sentencepiece
 torch
 torchaudio
-torchvido
+torchvideo
 accelerate
